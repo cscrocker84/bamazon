@@ -25,6 +25,6 @@
 <img src="images/mss3.png"><br>
 <img src="images/mss4.png"><br>
 <img src="images/mss5.png"><br>
-<h3>This App was built using Node.JS and accesses the mysql server.  <br> It also uses the NPM packages <ul><li>mysql</li><li>inquirer</li</ul>>
+<h3>This App was built using Node.JS and accesses the mysql server.  <br> It also uses the NPM packages <ul><li>mysql</li><li>inquirer</li</ul>
 
 
