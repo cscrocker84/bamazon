@@ -8,4 +8,4 @@
 <ul>
 <li>The Bamazon Customer view will allow users to view all of the items for sale.</li>
 <li>The user can then purchase items based on each item's specific Product ID and how many of each item to purchase</li>
-<li>When the user purchases items, the built in calculator provides a total cost for the order</li>
+<li>When the user purchases items, the built in calculator provides a total cost for the order and then the ordered items are removed from the inventory for the next order</li>
